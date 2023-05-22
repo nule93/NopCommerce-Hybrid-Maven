@@ -1,0 +1,37 @@
+[2023-05-21 23:43:33,103] Open Admin page of NopCommerce
+[2023-05-21 23:43:43,093] Login an account with email and passwor:admin@yourstore.comadmin
+[2023-05-21 23:43:46,432] Verify 'Dashboard' title is displayed
+[2023-05-21 23:43:46,800] Product 01 - Step 1: Click to submenu 'Product' at menu 'Category'
+[2023-05-21 23:43:49,394] Product 01 - Step 2: Verify 'Products' title is displayed
+[2023-05-21 23:43:49,700] Product 01 - Step 3: Input data for 'Product name' textbox
+[2023-05-21 23:43:49,850] Product 01 - Step 4: Click to 'Search' button
+[2023-05-21 23:43:52,418] Product 01 - Step 5: Verify quantity of items is displayed
+[2023-05-21 23:43:53,905] Product 02 - Step 1: Enter data for 'Product name' textbox
+[2023-05-21 23:43:54,830] Product 02 - Step 2: Select category 'Computers'
+[2023-05-21 23:43:55,274] Product 02 - Step 3: Uncheck 'Search Subcategories' checkbox
+[2023-05-21 23:43:55,343] Product 02 - Step 4: Click to 'Search' button
+[2023-05-21 23:43:57,443] Product 02 - Step 5: Verify not data is displayed
+[2023-05-21 23:43:57,501] Product 03 - Step 1: Input data for 'Product name' textbox
+[2023-05-21 23:43:57,737] Product 03 - Step 2: Select dropdown 'Category'
+[2023-05-21 23:43:57,829] Product 03 - Step 3: Check to 'Search Subcategories' checkbox
+[2023-05-21 23:43:58,127] Product 03 - Step 4: Click to 'Search' button
+[2023-05-21 23:44:00,181] Product 03 - Step 5: Verify quantity of items is displayed
+[2023-05-21 23:44:00,250] Product 03 - Step 6: Verify information of product is displayed
+[2023-05-21 23:44:00,742] Product 04 - Step 1: Input data 'Lenovo IdeaCentre 600 All-in-One PC' for 'Product name' textbox
+[2023-05-21 23:44:00,983] Product 04 - Step 2: select category 'Computers >> Desktops' in dropdown 
+[2023-05-21 23:44:01,323] Product 04 - Step 3: check to 'Search Subcategories' checkbox
+[2023-05-21 23:44:01,388] Product 04 - Step 4: Click to 'Search' button
+[2023-05-21 23:44:03,422] Product 04 - Step 5: Verify product's quantity
+[2023-05-21 23:44:03,517] Product 04 - Step 6: Verify product's info
+[2023-05-21 23:44:04,017] Product 05 - Step 1: input data 'Lenovo IdeaCentre 600 All-in-One PC' for 'Product name' textbox
+[2023-05-21 23:44:04,249] Product 05 - Step 2: select 'All' at Category dropdown
+[2023-05-21 23:44:04,601] Product 05 - Step 3: Uncheck for 'Search Subcategories' checkbox
+[2023-05-21 23:44:04,889] Product 05 - Step 4: Select 'Manufacturer' dropdown with data 'Apple'
+[2023-05-21 23:44:05,219] Product 05 - Step 5: Click to 'Search' button
+[2023-05-21 23:44:07,271] Product 05 - Step 6: Verify no data is displayed
+[2023-05-21 23:44:07,336] Product 06 - Step 1: input data for 'Go directly to product SKU'
+[2023-05-21 23:44:10,696] Product 06 - Step 2: Verify 'Edit product' screen is displayed
+[2023-05-21 23:44:10,932] Product 06 - Step 3: Verify product name is displayed correctly in the 'Edit product' screen
+[2023-05-21 23:44:11,107] Product 06 - Step 4: Verify SKU is displayed correctly in the 'Edit product' screen
+[2023-05-21 23:44:11,174] OS name = Windows 10
+[2023-05-21 23:44:11,175] Driver instance name = firefoxdriver: firefox on windows (e2ee25a2-1937-4215-8cb9-07817b891e88)

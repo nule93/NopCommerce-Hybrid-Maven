@@ -1,0 +1,782 @@
+[2023-04-26 23:12:08,313]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:15,573]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:17,757]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:18,019]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:18,105]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:18,289]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:18,363]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:25,989]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:35,691]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:36,327]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:38,756]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:38,815]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:38,877]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:38,942]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:39,002]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:39,061]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:39,132]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:40,258]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:40,351]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:40,443]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:41,228]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:51,403]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:56,436]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:12:57,093]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:01,069]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:02,090]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:02,792]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:12,937]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:15,633]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:16,146]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:26,650]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:30,000]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:30,087]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:30,166]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:40,350]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:13:40,837]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:14:13,109]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:14:13,192]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:14:13,271]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:14:54,865]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:14:54,949]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:14:55,015]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:15:00,038] OS name = Windows 10
+[2023-04-26 23:15:00,038] Driver instance name = chromedriver: chrome on windows (c3746a3246287f175ab19844cb196287)
+[2023-04-26 23:16:10,437]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:18,151]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:20,491]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:20,773]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:20,853]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:20,943]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:21,011]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:24,816]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:35,427]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:35,850]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:38,365]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:38,444]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:38,524]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:38,580]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:38,644]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:38,706]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:38,748]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:39,530]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:39,580]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:39,651]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:40,382]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:50,567]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:54,029]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:54,776]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:58,384]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:16:59,300]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:00,103]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:10,233]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:13,462]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:14,033]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:24,707]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:27,429]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:27,482]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:27,529]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:33,601]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:17:34,126]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:18:05,598]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:18:05,658]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:18:05,720]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:18:42,324]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:18:42,390]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:18:42,435]  -------------------------- PASSED -------------------------- 
+[2023-04-26 23:18:46,043] OS name = Windows 10
+[2023-04-26 23:18:46,043] Driver instance name = firefoxdriver: firefox on windows (9e728fdd-9f52-47bc-8608-daa56289f4c5)
+[2023-05-11 21:28:02,031] OS name = Windows 10
+[2023-05-11 21:28:02,042] 
+[2023-05-11 21:29:24,288] Open Nopcommerce page
+[2023-05-11 21:30:35,975] OS name = Windows 10
+[2023-05-11 21:30:35,995] Driver instance name = chromedriver: chrome on windows (a2f4e860368d66fd7158cd4643b5f473)
+[2023-05-11 21:30:36,831] Open Admin page of NopCommerce
+[2023-05-11 21:35:17,655] Open Nopcommerce page
+[2023-05-11 21:35:22,008] OS name = Windows 10
+[2023-05-11 21:35:22,009] Driver instance name = chromedriver: chrome on windows (566687a94fdbcb799ab49e959fb2c727)
+[2023-05-11 21:35:23,301] Open Admin page of NopCommerce
+[2023-05-11 21:40:11,734] Open Nopcommerce page
+[2023-05-11 21:40:16,743] OS name = Windows 10
+[2023-05-11 21:40:16,749] 
+[2023-05-11 21:40:16,791] Open Admin page of NopCommerce
+[2023-05-11 21:40:26,689] Login an account with email and passwor:admin@yourstore.comadmin
+[2023-05-11 21:41:54,555] OS name = Windows 10
+[2023-05-11 21:41:54,556] 
+[2023-05-11 21:46:54,522]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:47:03,715]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:47:05,898]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:47:06,169]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:47:06,267]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:47:06,421]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:47:06,499]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:47:50,484]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:47:51,470]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:47:57,912]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:48:04,760]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:49:52,440]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:49:53,160]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:50:43,219] OS name = Windows 10
+[2023-05-11 21:50:43,220] Driver instance name = chromedriver: chrome on windows (d7b6d5b42e8692df37c7eb692a80e4bc)
+[2023-05-11 21:52:47,611]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:52:57,972]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:00,152]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:00,446]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:00,528]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:00,678]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:00,757]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:06,479]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:16,388]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:16,958]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:19,316]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:19,392]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:19,491]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:19,564]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:19,643]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:19,712]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:19,789]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:21,321]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:21,415]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:21,489]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:22,646]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:32,846]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:36,287]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:37,927]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:41,912]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:43,716]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:44,511]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:54,650]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:59,036]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:53:59,973]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:54:15,031]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:54:22,971]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:54:23,071]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:54:23,162]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:54:48,945]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:54:50,027]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:55:23,407]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:55:23,487]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:55:23,558]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:56:06,539]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:56:06,636]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:56:06,726]  -------------------------- PASSED -------------------------- 
+[2023-05-11 21:56:10,902] OS name = Windows 10
+[2023-05-11 21:56:10,902] Driver instance name = chromedriver: chrome on windows (7d4242ad50e9595833c05096990a355e)
+[2023-05-11 22:05:26,658]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:05:30,708]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:05:31,233]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:05:33,467]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:06:16,071]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:06:26,290]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:06:31,373]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:06:31,623]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:06:33,066]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:06:33,274]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:06:38,514]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:06:43,683]  -------------------------- FAILED -------------------------- 
+[2023-05-11 22:06:56,620]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:06,799]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:09,633]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:14,471]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:18,680]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:24,871]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:27,586]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:28,905]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:28,982]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:29,059]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:39,234]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:07:49,449]  -------------------------- PASSED -------------------------- 
+[2023-05-11 22:18:14,461] -------------------------------------------
+[2023-05-11 22:18:15,825] -------------------------------------------
+[2023-05-11 22:18:16,804] -------------------------------------------
+[2023-05-11 22:18:18,107] -------------------------------------------
+[2023-05-11 22:18:19,812] -------------------------------------------
+[2023-05-11 22:18:25,872] -------------------------------------------
+[2023-05-11 22:18:31,774] -------------------------------------------
+[2023-05-11 22:18:31,781] OS name = Windows 10
+[2023-05-11 22:18:31,782] Driver instance name = chromedriver: chrome on windows (f550476c24c0cfcf719900d97a281ed3)
+[2023-05-11 22:22:18,031] Open Nopcommerce page
+[2023-05-11 22:22:26,852] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-11 22:23:28,028] OS name = Windows 10
+[2023-05-11 22:23:28,028] Driver instance name = chromedriver: chrome on windows (2ec48a67de8eb420f4b67a2982f3e3b8)
+[2023-05-11 22:24:22,675] Open Nopcommerce page
+[2023-05-11 22:24:37,378] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-11 22:24:40,841] Customer_01 - Step 1: Open Customer page
+[2023-05-11 22:25:13,365] Customer_02 - Step 1: Only input data for 'Email' textbox and 'Customer Roles' dropdown automationfc1615@gmail.comGuests
+[2023-05-11 22:25:13,536] Customer_03 - Step 1: Only input data for 'First name' textbox, 'Last name' textbox and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-11 22:25:13,642] Customer_04 - Step 1: Only input data for 'Company name' textbox and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-11 22:25:13,753] Customer_05 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc1615@gmail.comGuests1/1/2000
+[2023-05-11 22:25:13,998] Customer_06 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc1615@gmail.comGuests1/1/2000
+[2023-05-11 22:25:14,113] Customer_07 - Step 1: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc8119@gmail.comGuests
+[2023-05-11 22:25:14,188] Customer_08 - Step 1: Click to 'Bact to Customer list' button
+[2023-05-11 22:25:14,321] Customer_09 - Step 1: Click to 'Bact to Customer list' button
+[2023-05-11 22:25:14,400] OS name = Windows 10
+[2023-05-11 22:25:14,401] Driver instance name = firefoxdriver: firefox on windows (b43651d5-a772-452c-aab4-4a18f7d83a4f)
+[2023-05-11 22:26:22,150] Open Nopcommerce page
+[2023-05-11 22:26:39,665] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-11 22:26:51,733] Customer_01 - Step 1: Open Customer page
+[2023-05-11 22:26:56,306] Customer_01 - Step 2: Verify 'Customerers' title is displayed
+[2023-05-11 22:26:56,390] Customer_01 - Step 3: Click to 'Add new' button
+[2023-05-11 22:26:56,482] Customer_01 - Step 4: Verify 'Add a new customer' screen is displayed
+[2023-05-11 22:26:57,015] Customer_01 - Step 5: Input customer's info with email, password, firstName, lastName, gender, dateOfBirth, companyName, customerRoles adminCommentautomationfc2138@gmail.com123456AutomationFCMale1/1/2000Automation FCGuestsAdd new Customer (Guest)
+[2023-05-11 22:27:04,012] Customer_02 - Step 1: Only input data for 'Email' textbox and 'Customer Roles' dropdown automationfc2138@gmail.comGuests
+[2023-05-11 22:27:07,093] Customer_03 - Step 1: Only input data for 'First name' textbox, 'Last name' textbox and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-11 22:27:13,224] Customer_03 - Step 2: Click to 'Search' button
+[2023-05-11 22:27:43,333] Customer_04 - Step 1: Only input data for 'Company name' textbox and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-11 22:28:43,447] Customer_05 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc2138@gmail.comGuests1/1/2000
+[2023-05-11 22:29:43,904] Customer_06 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc2138@gmail.comGuests1/1/2000
+[2023-05-11 22:30:24,888] OS name = Windows 10
+[2023-05-11 22:30:24,943] 
+[2023-05-11 22:30:55,687] Open Nopcommerce page
+[2023-05-11 22:31:11,186] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-11 22:31:19,234] Customer_01 - Step 1: Open Customer page
+[2023-05-11 22:31:22,472] Customer_01 - Step 2: Verify 'Customerers' title is displayed
+[2023-05-11 22:31:22,607] Customer_01 - Step 3: Click to 'Add new' button
+[2023-05-11 22:31:27,026] Customer_01 - Step 4: Verify 'Add a new customer' screen is displayed
+[2023-05-11 22:31:27,208] Customer_01 - Step 5: Input customer's info with email, password, firstName, lastName, gender, dateOfBirth, companyName, customerRoles adminCommentautomationfc661@gmail.com123456AutomationFCMale1/1/2000Automation FCGuestsAdd new Customer (Guest)
+[2023-05-11 22:31:34,875] Customer_01 - Step 6: Check to 'Active' checkbox
+[2023-05-11 22:31:34,948] Customer_01 - Step 7: Click to 'Save and Continue Edit' button
+[2023-05-11 22:31:37,732] Customer_01 - Step 8: Verify 'Loading' icon is not displayed
+[2023-05-11 22:31:37,926] Customer_01 - Step 9: Verify created customer messsage is displayed 
+[2023-05-11 22:31:38,003] Customer_01 - Step 10: Verify created customer info
+[2023-05-11 22:31:38,319] Customer_01 - Step 11: Click to 'Bact to Customer list' button
+[2023-05-11 22:31:39,363] Customer_01 - Step 12: Select 'Guests' at 'Customer Roles' dropdown
+[2023-05-11 22:31:44,953] Customer_01 - Step 13: Click to 'Search' button
+[2023-05-11 22:31:45,133] Customer_01 - Step 14: Verify 'Loading' icon is not displayed
+[2023-05-11 22:31:45,840] Customer_01 - Step 15: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 22:31:47,191] Customer_02 - Step 1: Only input data for 'Email' textbox and 'Customer Roles' dropdown automationfc661@gmail.comGuests
+[2023-05-11 22:31:53,076] Customer_02 - Step 2: Click to 'Search' button
+[2023-05-11 22:31:53,246] Customer_02 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 22:31:54,523] Customer_02 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 22:31:55,073] Customer_03 - Step 1: Only input data for 'First name' textbox, 'Last name' textbox and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-11 22:32:00,946] Customer_03 - Step 2: Click to 'Search' button
+[2023-05-11 22:32:01,071] Customer_03 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 22:32:03,465] Customer_03 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 22:32:04,012] Customer_04 - Step 1: Only input data for 'Company name' textbox and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-11 22:32:09,701] Customer_04 - Step 2: Click to 'Search' button
+[2023-05-11 22:32:09,838] Customer_04 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 22:32:12,895] Customer_04 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 22:32:13,574] Customer_05 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc661@gmail.comGuests1/1/2000
+[2023-05-11 22:32:20,899] Customer_05 - Step 2: Click to 'Search' button
+[2023-05-11 22:32:21,031] Customer_05 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 22:32:26,541] Customer_06 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc661@gmail.comGuests1/1/2000
+[2023-05-11 22:32:33,383] Customer_06 - Step 2: Click to 'Search' button
+[2023-05-11 22:32:33,523] Customer_06 - Step 3: Click to 'Edit' button
+[2023-05-11 22:32:39,905] Customer_06 - Step 4: Verify 'Edit customer details' screen is displayed
+[2023-05-11 22:32:40,251] Customer_06 - Step 5: Input data to edit customer
+[2023-05-11 22:32:42,326] Customer_06 - Step 6: Click to 'Save' button
+[2023-05-11 22:32:50,081] Customer_06 - Step 7: Verify updated customer message is displayed
+[2023-05-11 22:32:50,153] Customer_06 - Step 8: Verify title 'Customers' is displayed
+[2023-05-11 22:32:50,238] Customer_06 - Step 9: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc7413@gmail.comGuests
+[2023-05-11 22:32:56,889] Customer_06 - Step 10: Click to 'Search' button
+[2023-05-11 22:32:57,036] Customer_06 - Step 11: Verify 'Loading' icon is not displayed
+[2023-05-11 22:32:57,717] Customer_06 - Step 12: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-11 22:32:58,371] Customer_07 - Step 1: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc7413@gmail.comGuests
+[2023-05-11 22:33:05,032] Customer_07 - Step 2: Click to 'Search' button
+[2023-05-11 22:33:05,194] Customer_07 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 22:33:10,597] Customer_08 - Step 1: Click to 'Bact to Customer list' button
+[2023-05-11 22:33:43,617] Customer_09 - Step 1: Click to 'Bact to Customer list' button
+[2023-05-11 22:34:16,598] OS name = Windows 10
+[2023-05-11 22:34:16,598] Driver instance name = chromedriver: chrome on windows (d32b30a529c327678b6f28d59a4b8bbf)
+[2023-05-11 23:02:57,074] Open Nopcommerce page
+[2023-05-11 23:03:12,066] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-11 23:03:34,088] Customer_01 - Step 1: Open Customer page
+[2023-05-11 23:03:41,467] Customer_01 - Step 2: Verify 'Customerers' title is displayed
+[2023-05-11 23:03:41,573] Customer_01 - Step 3: Click to 'Add new' button
+[2023-05-11 23:03:49,483] Customer_01 - Step 4: Verify 'Add a new customer' screen is displayed
+[2023-05-11 23:03:49,630] Customer_01 - Step 5: Input customer's info with email, password, firstName, lastName, gender, dateOfBirth, companyName, customerRoles adminCommentautomationfc2914@gmail.com123456AutomationFCMale1/1/2000Automation FCGuestsAdd new Customer (Guest)
+[2023-05-11 23:03:57,560] Customer_01 - Step 6: Check to 'Active' checkbox
+[2023-05-11 23:03:57,634] Customer_01 - Step 7: Click to 'Save and Continue Edit' button
+[2023-05-11 23:04:00,666] Customer_01 - Step 8: Verify 'Loading' icon is not displayed
+[2023-05-11 23:04:01,424] Customer_01 - Step 9: Verify created customer messsage is displayed 
+[2023-05-11 23:04:01,497] Customer_01 - Step 10: Verify created customer info
+[2023-05-11 23:04:01,803] Customer_01 - Step 11: Click to 'Bact to Customer list' button
+[2023-05-11 23:04:07,999] Customer_01 - Step 12: Select 'Guests' at 'Customer Roles' dropdown
+[2023-05-11 23:04:13,493] Customer_01 - Step 13: Click to 'Search' button
+[2023-05-11 23:04:13,645] Customer_01 - Step 14: Verify 'Loading' icon is not displayed
+[2023-05-11 23:04:16,629] Customer_01 - Step 15: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:04:17,798] Customer_02 - Step 1: Only input data for 'Email' textbox and 'Customer Roles' dropdown automationfc2914@gmail.comGuests
+[2023-05-11 23:04:23,838] Customer_02 - Step 2: Click to 'Search' button
+[2023-05-11 23:04:23,971] Customer_02 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:04:25,235] Customer_02 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:04:25,857] Customer_03 - Step 1: Only input data for 'First name' textbox, 'Last name' textbox and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-11 23:04:31,780] Customer_03 - Step 2: Click to 'Search' button
+[2023-05-11 23:04:31,925] Customer_03 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:04:33,193] Customer_03 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:04:33,758] Customer_04 - Step 1: Only input data for 'Company name' textbox and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-11 23:04:39,465] Customer_04 - Step 2: Click to 'Search' button
+[2023-05-11 23:04:39,590] Customer_04 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:04:40,274] Customer_04 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:04:40,841] Customer_05 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc2914@gmail.comGuests1/1/2000
+[2023-05-11 23:04:47,566] Customer_05 - Step 2: Click to 'Search' button
+[2023-05-11 23:04:47,732] Customer_05 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:04:48,431] Customer_05 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:04:49,002] Customer_06 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc2914@gmail.comGuests1/1/2000
+[2023-05-11 23:04:55,573] Customer_06 - Step 2: Click to 'Search' button
+[2023-05-11 23:04:55,706] Customer_06 - Step 3: Click to 'Edit' button
+[2023-05-11 23:04:57,602] Customer_06 - Step 4: Verify 'Edit customer details' screen is displayed
+[2023-05-11 23:04:57,836] Customer_06 - Step 5: Input data to edit customer
+[2023-05-11 23:04:59,518] Customer_06 - Step 6: Click to 'Save' button
+[2023-05-11 23:05:02,594] Customer_06 - Step 7: Verify updated customer message is displayed
+[2023-05-11 23:05:02,697] Customer_06 - Step 8: Verify title 'Customers' is displayed
+[2023-05-11 23:05:02,776] Customer_06 - Step 9: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc9545@gmail.comGuests
+[2023-05-11 23:05:09,428] Customer_06 - Step 10: Click to 'Search' button
+[2023-05-11 23:05:09,556] Customer_06 - Step 11: Verify 'Loading' icon is not displayed
+[2023-05-11 23:05:10,232] Customer_06 - Step 12: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-11 23:05:10,792] Customer_07 - Step 1: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc9545@gmail.comGuests
+[2023-05-11 23:05:17,479] Customer_07 - Step 2: Click to 'Search' button
+[2023-05-11 23:05:17,629] Customer_07 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:05:18,907] Customer_07 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-11 23:05:19,445] Customer_07 - Step 5: Click to 'Edit' button
+[2023-05-11 23:05:21,399] Customer_07 - Step 6: Verify 'Edit customer details' screen is displayed
+[2023-05-11 23:05:21,542] Customer_07 - Step 7: Click to 'Add New Address' button
+[2023-05-11 23:05:22,986] Customer_07 - Step 8: Verify 'Add new address' screen is displayed
+[2023-05-11 23:05:23,106] Customer_07 - Step 9: Input data to create a new address including: 'Automation', 'FC', 'automationfc@gmail.com', 'Automation FC', 'Viet Nam', 'Other', 'Ho Chi Minh', '743 Le Loi', '453 Le Lai', '650000', '0987654555', '+84987654555'
+[2023-05-11 23:05:25,825] Customer_07 - Step 10: Click to 'Save' button
+[2023-05-11 23:05:27,211] Customer_07 - Step 11: Verify added address message is diplayed
+[2023-05-11 23:05:27,306] Customer_07 - Step 12: Click to 'Bact to Customer list' button
+[2023-05-11 23:05:30,136] Customer_07 - Step 13:  Verify address's info includes: 'Automation', 'FC', 'automationfc@gmail.com', '0987654555', '+84987654555', 'Automation FC, 743 Le Loi, 453 Le Lai, Ho Chi Minh,650000, Viet Nam
+[2023-05-11 23:05:35,974] Customer_08 - Step 1: Click to 'Bact to Customer list' button
+[2023-05-11 23:05:37,454] Customer_08 - Step 2: Verify title 'Customers' is displayed
+[2023-05-11 23:05:37,549] Customer_08 - Step 3: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc9545@gmail.comGuests
+[2023-05-11 23:05:44,248] Customer_08 - Step 4: Click to 'Search' button
+[2023-05-11 23:05:44,405] Customer_08 - Step 5: Verify 'Loading' icon is not displayed
+[2023-05-11 23:05:45,076] Customer_08 - Step 6: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-11 23:05:45,699] Customer_08 - Step 7: Click to 'Edit' button
+[2023-05-11 23:05:47,322] Customer_08 - Step 8: Verify 'Edit customer details' screen is displayed
+[2023-05-11 23:05:47,581] Customer_08 - Step 9: Click to 'Edit' button at 'Address' table
+[2023-05-11 23:05:48,904] Customer_08 - Step 10: Verify 'Edit address' screen is displayed
+[2023-05-11 23:05:49,001] Customer_08 - Step 11: Input data to edit address including: 'Edit Automation', 'Edit FC', 'automationfc@gmail.com', 'Edit Automation FC', 'United States', 'California', 'Albany', '123 PO Box', '356 Los Bancos', '986589', '0987654666','+441619998888'
+[2023-05-11 23:05:52,387] Customer_08 - Step 12: Click to 'Save' button
+[2023-05-11 23:05:53,830] Customer_08 - Step 13: Verify updated address message is displayed
+[2023-05-11 23:05:53,916] Customer_08 - Step 14: Verify address's info edit address including: 'Edit Automation', 'Edit FC', 'automationfc@gmail.com', 'Edit Automation FC', 'United States', 'California', 'Albany', '123 PO Box', '356 Los Bancos', '986589', '0987654666','+441619998888'
+[2023-05-11 23:05:54,574] Customer_09 - Step 15: Click to 'Bact to Customer list' button
+[2023-05-11 23:05:55,956] Customer_09 - Step 16: Verify address info including: 'Edit Automation', 'Edit FC', 'automationfc@gmail.com', '0987654666', '+441619998888', 'Edit Automation FC
+123 PO Box
+356 Los Bancos
+Albany,California,986589
+United States'
+[2023-05-11 23:06:01,915] Customer_09 - Step 1: Click to 'Bact to Customer list' button
+[2023-05-11 23:06:04,011] Customer_09 - Step 2: Verify title 'Customers' is displayed
+[2023-05-11 23:06:04,098] Customer_09 - Step 3: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc9545@gmail.comGuests
+[2023-05-11 23:06:10,973] Customer_09 - Step 4: Click to 'Search' button
+[2023-05-11 23:06:11,126] Customer_09 - Step 5: Verify 'Loading' icon is not displayed
+[2023-05-11 23:06:11,822] Customer_09 - Step 6: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-11 23:06:12,477] Customer_09 - Step 7: Click to 'Edit' button
+[2023-05-11 23:06:13,661] Customer_09 - Step 8: Verify 'Edit customer details' screen is displayed
+[2023-05-11 23:06:13,830] Customer_09 - Step 9: Click to 'Delete' button at 'Address' table
+[2023-05-11 23:06:14,034] Customer_09 - Step 10: Accept alert
+[2023-05-11 23:06:14,071] Customer_09 - Step 11: Verify 'Loading' icon is not displayed
+[2023-05-11 23:06:15,473] Customer_09 - Step 12: Verify no data is displayed
+[2023-05-11 23:06:15,553] OS name = Windows 10
+[2023-05-11 23:06:15,553] Driver instance name = chromedriver: chrome on windows (aa0d801d755a4a2ad3175ab312a4886c)
+[2023-05-11 23:09:18,460] Open Nopcommerce page
+[2023-05-11 23:09:33,379] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-11 23:09:38,691] Customer_01 - Step 1: Open Customer page
+[2023-05-11 23:09:42,359] Customer_01 - Step 2: Verify 'Customerers' title is displayed
+[2023-05-11 23:09:42,461] Customer_01 - Step 3: Click to 'Add new' button
+[2023-05-11 23:09:45,546] Customer_01 - Step 4: Verify 'Add a new customer' screen is displayed
+[2023-05-11 23:09:45,692] Customer_01 - Step 5: Input customer's info with email, password, firstName, lastName, gender, dateOfBirth, companyName, customerRoles adminCommentautomationfc1973@gmail.com123456AutomationFCMale1/1/2000Automation FCGuestsAdd new Customer (Guest)
+[2023-05-11 23:09:53,174] Customer_01 - Step 6: Check to 'Active' checkbox
+[2023-05-11 23:09:53,244] Customer_01 - Step 7: Click to 'Save and Continue Edit' button
+[2023-05-11 23:09:54,996] Customer_01 - Step 8: Verify 'Loading' icon is not displayed
+[2023-05-11 23:09:55,234] Customer_01 - Step 9: Verify created customer messsage is displayed 
+[2023-05-11 23:09:55,306] Customer_01 - Step 10: Verify created customer info
+[2023-05-11 23:09:55,755] Customer_01 - Step 11: Click to 'Bact to Customer list' button
+[2023-05-11 23:09:58,422] Customer_01 - Step 12: Select 'Guests' at 'Customer Roles' dropdown
+[2023-05-11 23:10:03,932] Customer_01 - Step 13: Click to 'Search' button
+[2023-05-11 23:10:04,098] Customer_01 - Step 14: Verify 'Loading' icon is not displayed
+[2023-05-11 23:10:07,121] Customer_01 - Step 15: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:10:08,538] Customer_02 - Step 1: Only input data for 'Email' textbox and 'Customer Roles' dropdown automationfc1973@gmail.comGuests
+[2023-05-11 23:10:14,375] Customer_02 - Step 2: Click to 'Search' button
+[2023-05-11 23:10:14,559] Customer_02 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:10:15,835] Customer_02 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:10:16,412] Customer_03 - Step 1: Only input data for 'First name' textbox, 'Last name' textbox and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-11 23:10:22,353] Customer_03 - Step 2: Click to 'Search' button
+[2023-05-11 23:10:22,534] Customer_03 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:10:23,223] Customer_03 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:10:23,798] Customer_04 - Step 1: Only input data for 'Company name' textbox and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-11 23:10:29,440] Customer_04 - Step 2: Click to 'Search' button
+[2023-05-11 23:10:29,603] Customer_04 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:10:30,297] Customer_04 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:10:30,893] Customer_05 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc1973@gmail.comGuests1/1/2000
+[2023-05-11 23:10:37,556] Customer_05 - Step 2: Click to 'Search' button
+[2023-05-11 23:10:37,695] Customer_05 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:10:38,401] Customer_05 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-11 23:10:38,950] Customer_06 - Step 1: Input full data to seach customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc1973@gmail.comGuests1/1/2000
+[2023-05-11 23:10:45,450] Customer_06 - Step 2: Click to 'Search' button
+[2023-05-11 23:10:45,601] Customer_06 - Step 3: Click to 'Edit' button
+[2023-05-11 23:10:47,200] Customer_06 - Step 4: Verify 'Edit customer details' screen is displayed
+[2023-05-11 23:10:47,360] Customer_06 - Step 5: Input data to edit customer
+[2023-05-11 23:10:48,867] Customer_06 - Step 6: Click to 'Save' button
+[2023-05-11 23:10:50,761] Customer_06 - Step 7: Verify updated customer message is displayed
+[2023-05-11 23:10:50,897] Customer_06 - Step 8: Verify title 'Customers' is displayed
+[2023-05-11 23:10:50,997] Customer_06 - Step 9: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc3558@gmail.comGuests
+[2023-05-11 23:10:57,679] Customer_06 - Step 10: Click to 'Search' button
+[2023-05-11 23:10:57,818] Customer_06 - Step 11: Verify 'Loading' icon is not displayed
+[2023-05-11 23:10:58,471] Customer_06 - Step 12: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-11 23:10:59,032] Customer_07 - Step 1: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc3558@gmail.comGuests
+[2023-05-11 23:11:05,569] Customer_07 - Step 2: Click to 'Search' button
+[2023-05-11 23:11:05,702] Customer_07 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-11 23:11:06,929] Customer_07 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-11 23:11:07,470] Customer_07 - Step 5: Click to 'Edit' button
+[2023-05-11 23:11:08,772] Customer_07 - Step 6: Verify 'Edit customer details' screen is displayed
+[2023-05-11 23:11:08,955] Customer_07 - Step 7: Click to 'Add New Address' button
+[2023-05-11 23:11:10,232] Customer_07 - Step 8: Verify 'Add new address' screen is displayed
+[2023-05-11 23:11:10,342] Customer_07 - Step 9: Input data to create a new address including: 'Automation', 'FC', 'automationfc@gmail.com', 'Automation FC', 'Viet Nam', 'Other', 'Ho Chi Minh', '743 Le Loi', '453 Le Lai', '650000', '0987654555', '+84987654555'
+[2023-05-11 23:11:13,128] Customer_07 - Step 10: Click to 'Save' button
+[2023-05-11 23:11:14,451] Customer_07 - Step 11: Verify added address message is diplayed
+[2023-05-11 23:11:14,562] Customer_07 - Step 12: Click to 'Bact to Customer list' button
+[2023-05-11 23:11:16,708] Customer_07 - Step 13:  Verify address's info includes: 'Automation', 'FC', 'automationfc@gmail.com', '0987654555', '+84987654555', 'Automation FC, 743 Le Loi, 453 Le Lai, Ho Chi Minh,650000, Viet Nam
+[2023-05-11 23:11:22,528] Customer_08 - Step 1: Click to 'Bact to Customer list' button
+[2023-05-11 23:11:23,494] Customer_08 - Step 2: Verify title 'Customers' is displayed
+[2023-05-11 23:11:23,615] Customer_08 - Step 3: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc3558@gmail.comGuests
+[2023-05-11 23:11:30,278] Customer_08 - Step 4: Click to 'Search' button
+[2023-05-11 23:11:30,417] Customer_08 - Step 5: Verify 'Loading' icon is not displayed
+[2023-05-11 23:11:31,100] Customer_08 - Step 6: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-11 23:11:31,647] Customer_08 - Step 7: Click to 'Edit' button
+[2023-05-11 23:11:32,828] Customer_08 - Step 8: Verify 'Edit customer details' screen is displayed
+[2023-05-11 23:11:33,097] Customer_08 - Step 9: Click to 'Edit' button at 'Address' table
+[2023-05-11 23:11:34,602] Customer_08 - Step 10: Verify 'Edit address' screen is displayed
+[2023-05-11 23:11:34,705] Customer_08 - Step 11: Input data to edit address including: 'Edit Automation', 'Edit FC', 'automationfc@gmail.com', 'Edit Automation FC', 'United States', 'California', 'Albany', '123 PO Box', '356 Los Bancos', '986589', '0987654666','+441619998888'
+[2023-05-11 23:11:37,739] Customer_08 - Step 12: Click to 'Save' button
+[2023-05-11 23:11:38,977] Customer_08 - Step 13: Verify updated address message is displayed
+[2023-05-11 23:11:39,078] Customer_08 - Step 14: Verify address's info edit address including: 'Edit Automation', 'Edit FC', 'automationfc@gmail.com', 'Edit Automation FC', 'United States', 'California', 'Albany', '123 PO Box', '356 Los Bancos', '986589', '0987654666','+441619998888'
+[2023-05-11 23:11:39,736] Customer_09 - Step 15: Click to 'Bact to Customer list' button
+[2023-05-11 23:11:41,317] Customer_09 - Step 16: Verify address info including: 'Edit Automation', 'Edit FC', 'automationfc@gmail.com', '0987654666', '+441619998888', 'Edit Automation FC
+123 PO Box
+356 Los Bancos
+Albany,California,986589
+United States'
+[2023-05-11 23:11:47,137] Customer_09 - Step 1: Click to 'Bact to Customer list' button
+[2023-05-11 23:11:48,222] Customer_09 - Step 2: Verify title 'Customers' is displayed
+[2023-05-11 23:11:48,383] Customer_09 - Step 3: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc3558@gmail.comGuests
+[2023-05-11 23:11:55,099] Customer_09 - Step 4: Click to 'Search' button
+[2023-05-11 23:11:55,257] Customer_09 - Step 5: Verify 'Loading' icon is not displayed
+[2023-05-11 23:11:55,945] Customer_09 - Step 6: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-11 23:11:56,691] Customer_09 - Step 7: Click to 'Edit' button
+[2023-05-11 23:11:57,882] Customer_09 - Step 8: Verify 'Edit customer details' screen is displayed
+[2023-05-11 23:11:58,060] Customer_09 - Step 9: Click to 'Delete' button at 'Address' table
+[2023-05-11 23:11:58,249] Customer_09 - Step 10: Accept alert
+[2023-05-11 23:11:58,270] Customer_09 - Step 11: Verify 'Loading' icon is not displayed
+[2023-05-11 23:11:59,100] Customer_09 - Step 12: Verify no data is displayed
+[2023-05-11 23:11:59,180] OS name = Windows 10
+[2023-05-11 23:11:59,180] Driver instance name = chromedriver: chrome on windows (7a13f7a76c026ec3bb5ef97c3b534d92)
+[2023-05-14 11:35:14,658] Open Nopcommerce page
+[2023-05-14 11:35:27,914] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-14 11:35:31,955] Customer_01 - Step 1: Open Customer page
+[2023-05-14 11:35:34,872] Customer_01 - Step 2: Verify 'Customers' title is displayed
+[2023-05-14 11:35:35,084] Customer_01 - Step 3: Click to 'Add new' button
+[2023-05-14 11:35:41,425] Customer_01 - Step 4: Verify 'Add a new customer' screen is displayed
+[2023-05-14 11:35:41,591] Customer_01 - Step 5: Input customer's info with email, password, firstName, lastName, gender, dateOfBirth, companyName, customerRoles adminCommentautomationfc926@gmail.com123456AutomationFCMale1/1/2000Automation FCGuestsAdd new Customer (Guest)
+[2023-05-14 11:35:50,016] Customer_01 - Step 6: Check to 'Active' checkbox
+[2023-05-14 11:35:50,093] Customer_01 - Step 7: Click to 'Save and Continue Edit' button
+[2023-05-14 11:35:51,827] Customer_01 - Step 8: Verify 'Loading' icon is not displayed
+[2023-05-14 11:35:52,051] Customer_01 - Step 9: Verify created customer message is displayed 
+[2023-05-14 11:35:52,215] Customer_01 - Step 10: Verify created customer info
+[2023-05-14 11:35:52,739] Customer_01 - Step 11: Click to 'Back to Customer list' button
+[2023-05-14 11:35:53,845] Customer_01 - Step 12: Select 'Guests' at 'Customer Roles' dropdown
+[2023-05-14 11:35:59,709] Customer_01 - Step 13: Click to 'Search' button
+[2023-05-14 11:35:59,871] Customer_01 - Step 14: Verify 'Loading' icon is not displayed
+[2023-05-14 11:36:00,849] Customer_01 - Step 15: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-14 11:36:02,512] Customer_02 - Step 1: Only input data for 'Email' text box and 'Customer Roles' dropdown automationfc926@gmail.comGuests
+[2023-05-14 11:36:08,673] Customer_02 - Step 2: Click to 'Search' button
+[2023-05-14 11:36:08,861] Customer_02 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-14 11:36:09,604] Customer_02 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-14 11:36:10,388] Customer_03 - Step 1: Only input data for 'First name' text box, 'Last name' text box and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-14 11:36:16,513] Customer_03 - Step 2: Click to 'Search' button
+[2023-05-14 11:36:16,717] Customer_03 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-14 11:36:17,513] Customer_03 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-14 11:36:18,221] Customer_04 - Step 1: Only input data for 'Company name' text box and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-14 11:36:24,031] Customer_04 - Step 2: Click to 'Search' button
+[2023-05-14 11:36:24,182] Customer_04 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-14 11:36:24,906] Customer_04 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-14 11:36:25,637] Customer_05 - Step 1: Input full data to search the customer's information includes: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc926@gmail.comGuests1/1/2000
+[2023-05-14 11:36:33,137] Customer_05 - Step 2: Click to 'Search' button
+[2023-05-14 11:36:33,325] Customer_05 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-14 11:36:34,061] Customer_05 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-14 11:36:34,768] Customer_06 - Step 1: Input full data to search customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc926@gmail.comGuests1/1/2000
+[2023-05-14 11:36:41,908] Customer_06 - Step 2: Click to 'Search' button
+[2023-05-14 11:36:42,097] Customer_06 - Step 3: Click to 'Edit' button
+[2023-05-14 11:36:43,709] Customer_06 - Step 4: Verify 'Edit customer details' screen is displayed
+[2023-05-14 11:36:43,910] Customer_06 - Step 5: Input data to edit customer
+[2023-05-14 11:36:46,259] Customer_06 - Step 6: Click to 'Save' button
+[2023-05-14 11:36:50,104] Customer_06 - Step 7: Verify updated customer message is displayed
+[2023-05-14 11:36:50,272] Customer_06 - Step 8: Verify title 'Customers' is displayed
+[2023-05-14 11:36:50,397] Customer_06 - Step 9: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc676@gmail.comGuests
+[2023-05-14 11:36:57,851] Customer_06 - Step 10: Click to 'Search' button
+[2023-05-14 11:36:58,049] Customer_06 - Step 11: Verify 'Loading' icon is not displayed
+[2023-05-14 11:36:58,820] Customer_06 - Step 12: Verify customer's information is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-14 11:36:59,552] Customer_07 - Step 1: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc676@gmail.comGuests
+[2023-05-14 11:37:06,710] Customer_07 - Step 2: Click to 'Search' button
+[2023-05-14 11:37:06,877] Customer_07 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-14 11:37:07,599] Customer_07 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-14 11:37:08,306] Customer_07 - Step 5: Click to 'Edit' button
+[2023-05-14 11:37:10,023] Customer_07 - Step 6: Verify 'Edit customer details' screen is displayed
+[2023-05-14 11:37:10,237] Customer_07 - Step 7: Click to 'Add New Address' button
+[2023-05-14 11:37:12,297] Customer_07 - Step 8: Verify 'Add new address' screen is displayed
+[2023-05-14 11:37:12,421] Customer_07 - Step 9: Input data to create a new address including: 'Automation', 'FC', 'automationfc@gmail.com', 'Automation FC', 'Viet Nam', 'Other', 'Ho Chi Minh', '743 Le Loi', '453 Le Lai', '650000', '0987654555', '+84987654555'
+[2023-05-14 11:37:16,281] Customer_07 - Step 10: Click to 'Save' button
+[2023-05-14 11:37:17,729] Customer_07 - Step 11: Verify added address message displays
+[2023-05-14 11:37:17,936] Customer_07 - Step 12: Click to 'Back to Customer list' button
+[2023-05-14 11:37:19,362] Customer_07 - Step 13:  Verify address's info includes: 'Automation', 'FC', 'automationfc@gmail.com', '0987654555', '+84987654555', 'Automation FC, 743 Le Loi, 453 Le Lai, Ho Chi Minh,650000, Viet Nam
+[2023-05-14 11:37:25,574] Customer_08 - Step 1: Click to 'Back to Customer list' button
+[2023-05-14 11:37:26,831] Customer_08 - Step 2: Verify title 'Customers' is displayed
+[2023-05-14 11:37:27,045] Customer_08 - Step 3: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc676@gmail.comGuests
+[2023-05-14 11:37:34,330] Customer_08 - Step 4: Click to 'Search' button
+[2023-05-14 11:37:34,520] Customer_08 - Step 5: Verify 'Loading' icon is not displayed
+[2023-05-14 11:37:35,228] Customer_08 - Step 6: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-14 11:37:35,923] Customer_08 - Step 7: Click to 'Edit' button
+[2023-05-14 11:37:37,741] Customer_08 - Step 8: Verify 'Edit customer details' screen is displayed
+[2023-05-14 11:37:37,944] Customer_08 - Step 9: Click to 'Edit' button at 'Address' table
+[2023-05-14 11:37:39,778] Customer_08 - Step 10: Verify 'Edit address' screen is displayed
+[2023-05-14 11:37:39,932] Customer_08 - Step 11: Input data to edit address including: 'Edit Automation', 'Edit FC', 'automationfc@gmail.com', 'Edit Automation FC', 'United States', 'California', 'Albany', '123 PO Box', '356 Los Bancos', '986589', '0987654666','+441619998888'
+[2023-05-14 11:37:43,882] Customer_08 - Step 12: Click to 'Save' button
+[2023-05-14 11:37:45,456] Customer_08 - Step 13: Verify updated address message is displayed
+[2023-05-14 11:37:45,562] Customer_08 - Step 14: Verify address's info edit address including: 'Edit Automation', 'Edit FC', 'automationfc@gmail.com', 'Edit Automation FC', 'United States', 'California', 'Albany', '123 PO Box', '356 Los Bancos', '986589', '0987654666','+441619998888'
+[2023-05-14 11:37:46,426] Customer_09 - Step 15: Click to 'Back to Customer list' button
+[2023-05-14 11:37:47,800] Customer_09 - Step 16: Verify address info including: 'Edit Automation', 'Edit FC', 'automationfc@gmail.com', '0987654666', '+441619998888', 'Edit Automation FC
+123 PO Box
+356 Los Bancos
+Albany,California,986589
+United States'
+[2023-05-14 11:37:53,887] Customer_09 - Step 1: Click to 'Back to Customer list' button
+[2023-05-14 11:37:55,047] Customer_09 - Step 2: Verify title 'Customers' is displayed
+[2023-05-14 11:37:55,266] Customer_09 - Step 3: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc676@gmail.comGuests
+[2023-05-14 11:38:02,727] Customer_09 - Step 4: Click to 'Search' button
+[2023-05-14 11:38:02,901] Customer_09 - Step 5: Verify 'Loading' icon is not displayed
+[2023-05-14 11:38:03,624] Customer_09 - Step 6: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-14 11:38:04,350] Customer_09 - Step 7: Click to 'Edit' button
+[2023-05-14 11:38:05,885] Customer_09 - Step 8: Verify 'Edit customer details' screen is displayed
+[2023-05-14 11:38:06,136] Customer_09 - Step 9: Click to 'Delete' button at 'Address' table
+[2023-05-14 11:38:06,389] Customer_09 - Step 10: Accept alert
+[2023-05-14 11:38:06,418] Customer_09 - Step 11: Verify 'Loading' icon is not displayed
+[2023-05-14 11:38:07,162] Customer_09 - Step 12: Verify no data is displayed
+[2023-05-14 11:38:07,293] OS name = Windows 10
+[2023-05-14 11:38:07,293] Driver instance name = chromedriver: chrome on windows (0af5dfc4f46f0b37dea6ab42386e742f)
+[2023-05-14 12:02:07,088] -------------------------------------------
+[2023-05-14 12:02:08,337] -------------------------------------------
+[2023-05-14 12:02:09,276] -------------------------------------------
+[2023-05-14 12:02:10,260] -------------------------------------------
+[2023-05-14 12:02:47,206] -------------------------------------------
+[2023-05-14 12:02:52,949] -------------------------------------------
+[2023-05-14 12:02:52,957] OS name = Windows 10
+[2023-05-14 12:02:52,958] Driver instance name = chromedriver: chrome on windows (9778d30b1c37de1f13ba1e8a8436b370)
+[2023-05-16 11:07:04,531] -------------------------------------------
+[2023-05-16 11:07:05,602] -------------------------------------------
+[2023-05-16 11:07:06,317] -------------------------------------------
+[2023-05-16 11:07:07,075] -------------------------------------------
+[2023-05-16 11:07:08,001] -------------------------------------------
+[2023-05-16 11:07:14,667] -------------------------------------------
+[2023-05-16 11:07:20,230] -------------------------------------------
+[2023-05-16 11:07:20,234] OS name = Windows 10
+[2023-05-16 11:07:20,234] Driver instance name = firefoxdriver: firefox on windows (8eed8f82-2ee9-4a15-94aa-3d73efaf92e8)
+[2023-05-16 11:18:43,574] Open Nopcommerce page
+[2023-05-16 11:18:53,875] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-16 11:18:56,770] Customer_01 - Step 1: Open Customer page
+[2023-05-16 11:18:59,161] Customer_01 - Step 2: Verify 'Customers' title is displayed
+[2023-05-16 11:18:59,437] Customer_01 - Step 3: Click to 'Add new' button
+[2023-05-16 11:18:59,551] Customer_01 - Step 4: Verify 'Add a new customer' screen is displayed
+[2023-05-16 11:19:00,120] Customer_01 - Step 5: Input customer's info with email, password, firstName, lastName, gender, dateOfBirth, companyName, customerRoles adminCommentautomationfc9087@gmail.com123456AutomationFCMale1/1/2000Automation FCGuestsAdd new Customer (Guest)
+[2023-05-16 11:19:08,453] Customer_01 - Step 6: Check to 'Active' checkbox
+[2023-05-16 11:19:08,604] Customer_01 - Step 7: Click to 'Save and Continue Edit' button
+[2023-05-16 11:19:09,915] Customer_01 - Step 8: Verify 'Loading' icon is not displayed
+[2023-05-16 11:19:10,717] Customer_01 - Step 9: Verify created customer message is displayed 
+[2023-05-16 11:19:10,782] Customer_01 - Step 10: Verify created customer info
+[2023-05-16 11:19:11,608] Customer_02 - Step 1: Only input data for 'Email' text box and 'Customer Roles' dropdown automationfc9087@gmail.comGuests
+[2023-05-16 11:19:17,833] Customer_02 - Step 2: Click to 'Search' button
+[2023-05-16 11:19:48,041] Customer_03 - Step 1: Only input data for 'First name' text box, 'Last name' text box and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-16 11:19:54,273] Customer_03 - Step 2: Click to 'Search' button
+[2023-05-16 11:20:24,375] Customer_04 - Step 1: Only input data for 'Company name' text box and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-16 11:21:24,490] Customer_05 - Step 1: Input full data to search the customer's information includes: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc9087@gmail.comGuests1/1/2000
+[2023-05-16 11:22:25,069] Customer_06 - Step 1: Input full data to search customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc9087@gmail.comGuests1/1/2000
+[2023-05-16 11:23:25,508] Customer_07 - Step 1: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc5468@gmail.comGuests
+[2023-05-16 11:24:26,311] Customer_08 - Step 1: Click to 'Back to Customer list' button
+[2023-05-16 11:24:27,705] Customer_08 - Step 2: Verify title 'Customers' is displayed
+[2023-05-16 11:24:27,897] Customer_08 - Step 3: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc5468@gmail.comGuests
+[2023-05-16 11:24:28,616] Customer_09 - Step 1: Click to 'Back to Customer list' button
+[2023-05-16 11:24:58,746] OS name = Windows 10
+[2023-05-16 11:24:58,746] Driver instance name = firefoxdriver: firefox on windows (135b31bf-e6e3-4f4a-89b7-82fa7e77c9ec)
+[2023-05-21 21:55:53,295] Open Nopcommerce page
+[2023-05-21 21:56:07,950] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-21 21:56:15,457] Customer_01 - Step 1: Open Customer page
+[2023-05-21 21:56:19,667] Customer_01 - Step 2: Verify 'Customers' title is displayed
+[2023-05-21 21:56:19,789] Customer_01 - Step 3: Click to 'Add new' button
+[2023-05-21 21:56:24,597] Customer_01 - Step 4: Verify 'Add a new customer' screen is displayed
+[2023-05-21 21:56:24,778] Customer_01 - Step 5: Input customer's info with email, password, firstName, lastName, gender, dateOfBirth, companyName, customerRoles adminCommentautomationfc2389@gmail.com123456AutomationFCMale1/1/2000Automation FCGuestsAdd new Customer (Guest)
+[2023-05-21 21:56:32,792] Customer_01 - Step 6: Check to 'Active' checkbox
+[2023-05-21 21:56:32,873] Customer_01 - Step 7: Click to 'Save and Continue Edit' button
+[2023-05-21 21:56:34,560] Customer_01 - Step 8: Verify 'Loading' icon is not displayed
+[2023-05-21 21:56:34,789] Customer_01 - Step 9: Verify created customer message is displayed 
+[2023-05-21 21:56:34,891] Customer_01 - Step 10: Verify created customer info
+[2023-05-21 21:56:35,245] Customer_01 - Step 11: Click to 'Back to Customer list' button
+[2023-05-21 21:56:36,439] Customer_01 - Step 12: Select 'Guests' at 'Customer Roles' dropdown
+[2023-05-21 21:56:41,944] Customer_01 - Step 13: Click to 'Search' button
+[2023-05-21 21:56:42,112] Customer_01 - Step 14: Verify 'Loading' icon is not displayed
+[2023-05-21 21:56:42,838] Customer_01 - Step 15: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-21 21:56:45,004] Customer_02 - Step 1: Only input data for 'Email' text box and 'Customer Roles' dropdown automationfc2389@gmail.comGuests
+[2023-05-21 21:56:50,928] Customer_02 - Step 2: Click to 'Search' button
+[2023-05-21 21:56:51,075] Customer_02 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-21 21:56:51,818] Customer_02 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-21 21:56:52,400] Customer_03 - Step 1: Only input data for 'First name' text box, 'Last name' text box and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-21 21:56:58,557] Customer_03 - Step 2: Click to 'Search' button
+[2023-05-21 21:56:58,723] Customer_03 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-21 21:56:59,406] Customer_03 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-21 21:57:00,074] Customer_04 - Step 1: Only input data for 'Company name' text box and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-21 21:57:35,216] Customer_05 - Step 1: Input full data to search the customer's information includes: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc2389@gmail.comGuests1/1/2000
+[2023-05-21 21:57:42,843] Customer_05 - Step 2: Click to 'Search' button
+[2023-05-21 21:57:43,233] Customer_05 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-21 21:57:44,542] Customer_05 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName, companyNameAutomation FCAutomation FC
+[2023-05-21 21:57:45,229] Customer_06 - Step 1: Input full data to search customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc2389@gmail.comGuests1/1/2000
+[2023-05-21 21:57:52,398] Customer_06 - Step 2: Click to 'Search' button
+[2023-05-21 21:57:52,597] Customer_06 - Step 3: Click to 'Edit' button
+[2023-05-21 21:57:54,601] Customer_06 - Step 4: Verify 'Edit customer details' screen is displayed
+[2023-05-21 21:57:54,796] Customer_06 - Step 5: Input data to edit customer
+[2023-05-21 21:57:56,745] Customer_06 - Step 6: Click to 'Save' button
+[2023-05-21 21:57:58,441] Customer_06 - Step 7: Verify updated customer message is displayed
+[2023-05-21 21:57:58,578] Customer_06 - Step 8: Verify title 'Customers' is displayed
+[2023-05-21 21:57:58,674] Customer_06 - Step 9: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc6943@gmail.comGuests
+[2023-05-21 21:58:05,737] Customer_06 - Step 10: Click to 'Search' button
+[2023-05-21 21:58:05,889] Customer_06 - Step 11: Verify 'Loading' icon is not displayed
+[2023-05-21 21:58:06,681] Customer_06 - Step 12: Verify customer's information is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-21 21:58:07,326] Customer_07 - Step 1: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc6943@gmail.comGuests
+[2023-05-21 21:58:16,623] Customer_07 - Step 2: Click to 'Search' button
+[2023-05-21 21:58:16,885] Customer_07 - Step 3: Verify 'Loading' icon is not displayed
+[2023-05-21 21:58:17,680] Customer_07 - Step 4: Verify customer's is displayed correctly with email 'Guest', customer roles 'Guests', active 'tick' and fullName 'Edit Automation Edit FC', companyName 'Edit Automation FC'
+[2023-05-21 21:58:18,327] Customer_07 - Step 5: Click to 'Edit' button
+[2023-05-21 21:58:19,764] Customer_07 - Step 6: Verify 'Edit customer details' screen is displayed
+[2023-05-21 21:58:20,006] Customer_07 - Step 7: Click to 'Add New Address' button
+[2023-05-21 21:58:23,284] Customer_07 - Step 8: Verify 'Add new address' screen is displayed
+[2023-05-21 21:58:23,395] Customer_07 - Step 9: Input data to create a new address including: 'Automation', 'FC', 'automationfc@gmail.com', 'Automation FC', 'Viet Nam', 'Other', 'Ho Chi Minh', '743 Le Loi', '453 Le Lai', '650000', '0987654555', '+84987654555'
+[2023-05-21 21:58:26,631] Customer_07 - Step 10: Click to 'Save' button
+[2023-05-21 21:58:28,401] Customer_07 - Step 11: Verify added address message displays
+[2023-05-21 21:58:28,475] Customer_07 - Step 12: Click to 'Back to Customer list' button
+[2023-05-21 21:58:30,036] Customer_07 - Step 13:  Verify address's info includes: 'Automation', 'FC', 'automationfc@gmail.com', '0987654555', '+84987654555', 'Automation FC, 743 Le Loi, 453 Le Lai, Ho Chi Minh,650000, Viet Nam
+[2023-05-21 21:58:35,895] Customer_08 - Step 1: Click to 'Back to Customer list' button
+[2023-05-21 21:58:37,247] Customer_08 - Step 2: Verify title 'Customers' is displayed
+[2023-05-21 21:58:37,384] Customer_08 - Step 3: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc6943@gmail.comGuests
+[2023-05-21 21:59:13,438] Customer_09 - Step 1: Click to 'Back to Customer list' button
+[2023-05-21 21:59:43,646] OS name = Windows 10
+[2023-05-21 21:59:43,648] Driver instance name = chromedriver: chrome on windows (45a07abc96d2ce1db5a86679f39c5ab5)
+[2023-05-21 22:23:18,290] Open Nopcommerce page
+[2023-05-21 22:23:31,768] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-21 22:23:35,236] Customer_01 - Step 1: Open Customer page
+[2023-05-21 22:24:07,532] Customer_02 - Step 1: Only input data for 'Email' text box and 'Customer Roles' dropdown automationfc4420@gmail.comGuests
+[2023-05-21 22:24:07,678] Customer_03 - Step 1: Only input data for 'First name' text box, 'Last name' text box and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-21 22:24:07,801] Customer_04 - Step 1: Only input data for 'Company name' text box and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-21 22:24:07,965] Customer_05 - Step 1: Input full data to search the customer's information includes: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc4420@gmail.comGuests1/1/2000
+[2023-05-21 22:24:08,105] Customer_06 - Step 1: Input full data to search customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc4420@gmail.comGuests1/1/2000
+[2023-05-21 22:24:08,195] Customer_07 - Step 1: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc896@gmail.comGuests
+[2023-05-21 22:24:08,292] Customer_08 - Step 1: Click to 'Back to Customer list' button
+[2023-05-21 22:24:08,380] Customer_09 - Step 1: Click to 'Back to Customer list' button
+[2023-05-21 22:24:08,510] OS name = Windows 10
+[2023-05-21 22:24:08,511] Driver instance name = firefoxdriver: firefox on windows (5d872e40-9ad5-4553-9bd6-09fe409a3626)
+[2023-05-21 22:30:23,559] Open Nopcommerce page
+[2023-05-21 22:30:36,440] Login an account with email and passwordadmin@yourstore.comadmin
+[2023-05-21 22:30:40,022] Customer_01 - Step 1: Open Customer page
+[2023-05-21 22:30:42,467] Customer_01 - Step 2: Verify 'Customers' title is displayed
+[2023-05-21 22:30:42,725] Customer_01 - Step 3: Click to 'Add new' button
+[2023-05-21 22:30:42,819] Customer_01 - Step 4: Verify 'Add a new customer' screen is displayed
+[2023-05-21 22:30:43,381] Customer_01 - Step 5: Input customer's info with email, password, firstName, lastName, gender, dateOfBirth, companyName, customerRoles adminCommentautomationfc4340@gmail.com123456AutomationFCMale1/1/2000Automation FCGuestsAdd new Customer (Guest)
+[2023-05-21 22:30:51,716] Customer_01 - Step 6: Check to 'Active' checkbox
+[2023-05-21 22:30:51,931] Customer_01 - Step 7: Click to 'Save and Continue Edit' button
+[2023-05-21 22:30:53,387] Customer_01 - Step 8: Verify 'Loading' icon is not displayed
+[2023-05-21 22:30:54,880] Customer_02 - Step 1: Only input data for 'Email' text box and 'Customer Roles' dropdown automationfc4340@gmail.comGuests
+[2023-05-21 22:31:01,115] Customer_02 - Step 2: Click to 'Search' button
+[2023-05-21 22:31:31,229] Customer_03 - Step 1: Only input data for 'First name' text box, 'Last name' text box and 'Customer Roles' dropdown AutomationFCGuests
+[2023-05-21 22:31:37,392] Customer_03 - Step 2: Click to 'Search' button
+[2023-05-21 22:32:07,482] Customer_04 - Step 1: Only input data for 'Company name' text box and 'Customer Roles' dropdown Automation FCGuests
+[2023-05-21 22:33:07,634] Customer_05 - Step 1: Input full data to search the customer's information includes: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc4340@gmail.comGuests1/1/2000
+[2023-05-21 22:34:08,167] Customer_06 - Step 1: Input full data to search customer including: firstName, lastName, companyName, email, customer roles and date of birthAutomationFCAutomation FCautomationfc4340@gmail.comGuests1/1/2000
+[2023-05-21 22:35:08,639] Customer_07 - Step 1: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc8280@gmail.comGuests
+[2023-05-21 22:36:09,086] Customer_08 - Step 1: Click to 'Back to Customer list' button
+[2023-05-21 22:36:10,600] Customer_08 - Step 2: Verify title 'Customers' is displayed
+[2023-05-21 22:36:10,844] Customer_08 - Step 3: Input data to search includes: 'Edit Automation', 'Edit FC', 'Edit Automation FC', '2/2' and email, customer rolesedit_automationfc8280@gmail.comGuests
+[2023-05-21 22:36:11,526] Customer_09 - Step 1: Click to 'Back to Customer list' button
+[2023-05-21 22:36:41,626] OS name = Windows 10
+[2023-05-21 22:36:41,626] Driver instance name = firefoxdriver: firefox on windows (03e7c6e8-d00f-4c27-a24e-611318302ca0)
+[2023-05-21 23:12:00,284] Open Admin page of NopCommerce
+[2023-05-21 23:12:13,403] Login an account with email and passwor:admin@yourstore.comadmin
+[2023-05-21 23:12:15,883] Verify 'Dashboard' title is displayed
+[2023-05-21 23:12:16,337] Product 01 - Step 1: Click to submenu 'Product' at menu 'Category'
+[2023-05-21 23:12:18,962] Product 01 - Step 2: Verify 'Products' title is displayed
+[2023-05-21 23:12:19,226] Product 01 - Step 3: Input data for 'Product name' textbox
+[2023-05-21 23:12:19,338] Product 01 - Step 4: Click to 'Search' button
+[2023-05-21 23:12:21,502] Product 01 - Step 5: Verify quantity of items is displayed
+[2023-05-21 23:12:22,498] Product 02 - Step 1: Enter data for 'Product name' textbox
+[2023-05-21 23:12:22,788] Product 02 - Step 2: Select category 'Computers'
+[2023-05-21 23:12:23,225] Product 02 - Step 3: Uncheck 'Search Subcategories' checkbox
+[2023-05-21 23:12:23,288] Product 02 - Step 4: Click to 'Search' button
+[2023-05-21 23:12:25,422] Product 02 - Step 5: Verify not data is displayed
+[2023-05-21 23:12:25,509] Product 03 - Step 1: Input data for 'Product name' textbox
+[2023-05-21 23:12:25,754] Product 03 - Step 2: Select dropdown 'Category'
+[2023-05-21 23:12:25,851] Product 03 - Step 3: Check to 'Search Subcategories' checkbox
+[2023-05-21 23:12:26,158] Product 03 - Step 4: Click to 'Search' button
+[2023-05-21 23:12:28,222] Product 03 - Step 5: Verify quantity of items is displayed
+[2023-05-21 23:12:28,319] Product 03 - Step 6: Verify information of product is displayed
+[2023-05-21 23:12:28,860] Product 04 - Step 1: Input data 'Lenovo IdeaCentre 600 All-in-One PC' for 'Product name' textbox
+[2023-05-21 23:12:29,079] Product 04 - Step 2: select category 'Computers >> Desktops' in dropdown 
+[2023-05-21 23:12:29,412] Product 04 - Step 3: check to 'Search Subcategories' checkbox
+[2023-05-21 23:12:29,473] Product 04 - Step 4: Click to 'Search' button
+[2023-05-21 23:12:31,576] Product 04 - Step 5: Verify product's quantity
+[2023-05-21 23:12:31,669] Product 04 - Step 6: Verify product's info
+[2023-05-21 23:12:32,193] Product 05 - Step 1: input data 'Lenovo IdeaCentre 600 All-in-One PC' for 'Product name' textbox
+[2023-05-21 23:12:32,448] Product 05 - Step 2: select 'All' at Category dropdown
+[2023-05-21 23:12:32,800] Product 05 - Step 3: Uncheck for 'Search Subcategories' checkbox
+[2023-05-21 23:12:33,095] Product 05 - Step 4: Select 'Manufacturer' dropdown with data 'Apple'
+[2023-05-21 23:12:33,456] Product 05 - Step 5: Click to 'Search' button
+[2023-05-21 23:12:35,531] Product 05 - Step 6: Verify no data is displayed
+[2023-05-21 23:12:35,638] Product 06 - Step 1: input data for 'Go directly to product SKU'
+[2023-05-21 23:12:38,998] Product 06 - Step 2: Verify 'Edit product' screen is displayed
+[2023-05-21 23:12:39,278] Product 06 - Step 3: Verify product name is displayed correctly in the 'Edit product' screen
+[2023-05-21 23:12:39,537] Product 06 - Step 4: Verify SKU is displayed correctly in the 'Edit product' screen
+[2023-05-21 23:12:39,607] OS name = Windows 10
+[2023-05-21 23:12:39,607] Driver instance name = firefoxdriver: firefox on windows (a842324b-34ed-4370-a732-8c82379cd19a)
+[2023-05-21 23:41:58,547] Open Admin page of NopCommerce
+[2023-05-21 23:42:12,211] Login an account with email and passwor:admin@yourstore.comadmin
+[2023-05-21 23:42:14,725] Verify 'Dashboard' title is displayed
+[2023-05-21 23:42:15,289] Product 01 - Step 1: Click to submenu 'Product' at menu 'Category'
+[2023-05-21 23:42:48,544] Product 02 - Step 1: Enter data for 'Product name' textbox
+[2023-05-21 23:42:48,776] Product 03 - Step 1: Input data for 'Product name' textbox
+[2023-05-21 23:42:49,011] Product 04 - Step 1: Input data 'Lenovo IdeaCentre 600 All-in-One PC' for 'Product name' textbox
+[2023-05-21 23:42:49,201] Product 05 - Step 1: input data 'Lenovo IdeaCentre 600 All-in-One PC' for 'Product name' textbox
+[2023-05-21 23:42:49,550] Product 06 - Step 1: input data for 'Go directly to product SKU'
+[2023-05-21 23:42:49,812] OS name = Windows 10
+[2023-05-21 23:42:49,813] Driver instance name = firefoxdriver: firefox on windows (cdcd6797-d0b7-476f-8da0-69d957eaa8d6)
+[2023-05-21 23:43:33,103] Open Admin page of NopCommerce
+[2023-05-21 23:43:43,093] Login an account with email and passwor:admin@yourstore.comadmin
+[2023-05-21 23:43:46,432] Verify 'Dashboard' title is displayed
+[2023-05-21 23:43:46,800] Product 01 - Step 1: Click to submenu 'Product' at menu 'Category'
+[2023-05-21 23:43:49,394] Product 01 - Step 2: Verify 'Products' title is displayed
+[2023-05-21 23:43:49,700] Product 01 - Step 3: Input data for 'Product name' textbox
+[2023-05-21 23:43:49,850] Product 01 - Step 4: Click to 'Search' button
+[2023-05-21 23:43:52,418] Product 01 - Step 5: Verify quantity of items is displayed
+[2023-05-21 23:43:53,905] Product 02 - Step 1: Enter data for 'Product name' textbox
+[2023-05-21 23:43:54,830] Product 02 - Step 2: Select category 'Computers'
+[2023-05-21 23:43:55,274] Product 02 - Step 3: Uncheck 'Search Subcategories' checkbox
+[2023-05-21 23:43:55,343] Product 02 - Step 4: Click to 'Search' button
+[2023-05-21 23:43:57,443] Product 02 - Step 5: Verify not data is displayed
+[2023-05-21 23:43:57,501] Product 03 - Step 1: Input data for 'Product name' textbox
+[2023-05-21 23:43:57,737] Product 03 - Step 2: Select dropdown 'Category'
+[2023-05-21 23:43:57,829] Product 03 - Step 3: Check to 'Search Subcategories' checkbox
+[2023-05-21 23:43:58,127] Product 03 - Step 4: Click to 'Search' button
+[2023-05-21 23:44:00,181] Product 03 - Step 5: Verify quantity of items is displayed
+[2023-05-21 23:44:00,250] Product 03 - Step 6: Verify information of product is displayed
+[2023-05-21 23:44:00,742] Product 04 - Step 1: Input data 'Lenovo IdeaCentre 600 All-in-One PC' for 'Product name' textbox
+[2023-05-21 23:44:00,983] Product 04 - Step 2: select category 'Computers >> Desktops' in dropdown 
+[2023-05-21 23:44:01,323] Product 04 - Step 3: check to 'Search Subcategories' checkbox
+[2023-05-21 23:44:01,388] Product 04 - Step 4: Click to 'Search' button
+[2023-05-21 23:44:03,422] Product 04 - Step 5: Verify product's quantity
+[2023-05-21 23:44:03,517] Product 04 - Step 6: Verify product's info
+[2023-05-21 23:44:04,017] Product 05 - Step 1: input data 'Lenovo IdeaCentre 600 All-in-One PC' for 'Product name' textbox
+[2023-05-21 23:44:04,249] Product 05 - Step 2: select 'All' at Category dropdown
+[2023-05-21 23:44:04,601] Product 05 - Step 3: Uncheck for 'Search Subcategories' checkbox
+[2023-05-21 23:44:04,889] Product 05 - Step 4: Select 'Manufacturer' dropdown with data 'Apple'
+[2023-05-21 23:44:05,219] Product 05 - Step 5: Click to 'Search' button
+[2023-05-21 23:44:07,271] Product 05 - Step 6: Verify no data is displayed
+[2023-05-21 23:44:07,336] Product 06 - Step 1: input data for 'Go directly to product SKU'
+[2023-05-21 23:44:10,696] Product 06 - Step 2: Verify 'Edit product' screen is displayed
+[2023-05-21 23:44:10,932] Product 06 - Step 3: Verify product name is displayed correctly in the 'Edit product' screen
+[2023-05-21 23:44:11,107] Product 06 - Step 4: Verify SKU is displayed correctly in the 'Edit product' screen
+[2023-05-21 23:44:11,174] OS name = Windows 10
+[2023-05-21 23:44:11,175] Driver instance name = firefoxdriver: firefox on windows (e2ee25a2-1937-4215-8cb9-07817b891e88)

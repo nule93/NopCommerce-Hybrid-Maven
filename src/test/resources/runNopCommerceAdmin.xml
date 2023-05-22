@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce-Admin">
+
+	<listeners>
+		<listener class-name="commons.MethodListener"></listener>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="reportConfig.ExtentTestListener" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<parameter name="env" value="testing"></parameter>
+	<test name="Run On CHROME">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.nopcommerce.admin.AdminCustomer" />
+			<!--<class name="com.nopcommerce.admin.AdminProduct" />-->
+		</classes>
+	</test>
+</suite>

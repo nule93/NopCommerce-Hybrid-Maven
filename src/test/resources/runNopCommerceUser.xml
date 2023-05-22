@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce-User">
+
+	<listeners>
+		<listener class-name="commons.MethodListener"></listener>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="reportConfig.ExtentTestListener" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<parameter name="environment" value="dev"></parameter>
+	<test name="Run On Chrome">
+		<parameter name="browser" value="FHEADLESS" />
+		<classes>
+
+			<!--<class name="com.nopcommerce.common.Common_01_Register_Cookie" />-->
+			<class name="com.nopcommerce.user.User_Sort_Display_Paging" ></class>
+		</classes>
+	</test>
+</suite>
