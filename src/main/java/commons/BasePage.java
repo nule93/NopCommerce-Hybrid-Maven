@@ -36,11 +36,6 @@ public class BasePage {
     protected BasePage(WebDriver driver) {
         this.driver = driver;
     }
-
-    protected static BasePage getBasePage() {
-        return new BasePage(driver);
-    }
-
     protected void openUrlPage(String urlPage) {
         driver.get(urlPage);
     }
